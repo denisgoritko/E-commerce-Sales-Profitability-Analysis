@@ -1,0 +1,30 @@
+Categories,Total Revenue,,,,,,Categories,SUM of Total Profit
+Office Supplies,"$402,213,995.61",,,,,,Cosmetics,"$92,723,306.17"
+Household,"$294,205,199.23",,,,,,Office Supplies,"$77,977,176.25"
+Cosmetics,"$233,154,825.20",,,,,,Household,"$72,962,466.77"
+Meat,"$223,762,018.20",,,,,,Baby Food,"$53,940,997.16"
+Baby Food,"$143,647,587.68",,,,,,Clothes,"$43,431,314.40"
+Cereal,"$95,791,404.50",,,,,,Cereal,"$41,255,034.15"
+Vegetables,"$89,746,728.64",,,,,,Vegetables,"$36,776,002.72"
+Snacks,"$74,788,612.80",,,,,,Meat,"$30,337,736.00"
+Clothes,"$64,626,552.80",,,,,,Snacks,"$27,027,422.40"
+Personal Care,"$45,579,022.94",,,,,,Personal Care,"$13,975,410.68"
+Beverages,"$29,093,160.85",,,,,,Beverages,"$9,601,662.78"
+Fruits,"$5,520,299.76",,,,,,Fruits,"$1,425,929.52"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Categories,SUM of Total Cost,,,,,,Categories,SUM of Units Sold
+Office Supplies,"$324,236,819.36",,,,,,Office Supplies,617641
+Household,"$221,242,732.46",,,,,,Beverages,613133
+Meat,"$193,424,282.20",,,,,,Fruits,591672
+Cosmetics,"$140,431,519.03",,,,,,Clothes,591385
+Baby Food,"$89,706,590.52",,,,,,Vegetables,582544
+Cereal,"$54,536,370.35",,,,,,Baby Food,562706
+Vegetables,"$52,970,725.92",,,,,,Personal Care,557678
+Snacks,"$47,761,190.40",,,,,,Cosmetics,533291
+Personal Care,"$31,603,612.26",,,,,,Meat,530380
+Clothes,"$21,195,238.40",,,,,,Snacks,490160
+Beverages,"$19,491,498.07",,,,,,Cereal,465685
+Fruits,"$4,094,370.24",,,,,,Household,440249

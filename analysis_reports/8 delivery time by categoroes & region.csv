@@ -1,0 +1,49 @@
+,Region,Values
+,Asia,
+Categories,MEDIAN of Delivery time,SUM of Total Profit
+Clothes,34,"$3,064,137.12"
+Baby Food,34,"$1,904,929.92"
+Snacks,32.5,"$3,251,771.22"
+Meat,28,"$4,265,404.00"
+Fruits,27,"$120,502.41"
+Cereal,26,"$2,345,420.25"
+Beverages,25.5,"$234,821.70"
+Personal Care,22,"$1,172,782.94"
+Household,21,"$4,704,743.24"
+Office Supplies,20,"$1,401,122.50"
+Vegetables,17,"$2,188,653.97"
+Cosmetics,1,"$497,963.68"
+,,
+,,
+,,
+,Region,Values
+,Europe,
+Categories,MEDIAN of Delivery time,SUM of Total Profit
+Cereal,29,"$38,429,544.69"
+Baby Food,28.5,"$48,351,112.98"
+Office Supplies,28,"$72,010,853.75"
+Cosmetics,28,"$87,512,943.88"
+Household,26,"$64,455,711.60"
+Meat,24.5,"$23,032,323.60"
+Snacks,24,"$21,760,890.72"
+Vegetables,23,"$31,428,702.33"
+Beverages,23,"$8,816,517.36"
+Fruits,22,"$1,159,532.94"
+Clothes,21,"$39,480,609.60"
+Personal Care,19,"$12,118,038.66"
+,,
+,,
+MEDIAN of Delivery time,Region,
+Categories,Unknow,
+Household,30.5,
+Personal Care,27.5,
+Meat,27.5,
+Snacks,27,
+Cereal,26.5,
+Beverages,26,
+Fruits,24,
+Cosmetics,22.5,
+Baby Food,20,
+Office Supplies,18.5,
+Vegetables,11,
+Clothes,9,
