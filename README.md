@@ -1,4 +1,4 @@
-# 📈 E-commerce Performance & Profitability Analysis System (Google Sheets)
+#  E-commerce Performance & Profitability Analysis System (Google Sheets)
 
 ## 🇺🇸 Project Overview
 
@@ -6,7 +6,7 @@ This project showcases the development of a comprehensive analytical system buil
 
 ***
 
-## 📁 Repository Structure
+##  Repository Structure
 
 | Folder | Purpose | Files Count |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ The analysis focuses on deep dives into profitability, logistics, and sales dyna
 
 ***
 
-## 💡 Conclusions and Recommendations (Updated)
+##  Conclusions and Recommendations 
 
 Based on the multi-dimensional analysis, the following key insights were derived:
 
@@ -44,7 +44,7 @@ Based on the multi-dimensional analysis, the following key insights were derived
 | **Logistics & Profit** | Profit **depends on the time** required for shipment; the average delivery time generally brings the most profit. | However, critically long median delivery times (over 30 days) were observed in specific countries (e.g., **Hungary: 36 days, Russia: 34 days**), requiring immediate logistics review. |
 | **Final Recommendation** | Focus on maximizing sales in the **Europe** region and optimizing the logistics pipeline for Class C items. | Class C categories (lowest contribution) need a strategic review: should they be maintained, or should their margin be increased? |
 
-## 🔗 Visualization Link
+## 🔗 Google Sheets Link
 
 * [Google Sheet: Sales & Profitability Analysis](https://docs.google.com/spreadsheets/d/1NzivFDDzDapf17XBWG4k03jyjwhfu_DO8riJD-R1koY/edit?usp=sharing)
 
@@ -53,13 +53,13 @@ Based on the multi-dimensional analysis, the following key insights were derived
 
 # 🇺🇦 Аналіз Прибутковості та Ефективності E-commerce (Google Таблиці)
 
-## 🚀 Огляд Проєкту
+##  Огляд Проєкту
 
 Цей проєкт демонструє створення комплексної аналітичної системи, реалізованої за допомогою розширених функцій **Google Таблиць** (Зведені таблиці, складні формули). Аналіз охоплює **Продажі, Глибинну Прибутковість** та **Стратегію Запасів/Логістику**.
 
 ***
 
-## 🔍 Ключові Аналітичні Шари
+##  Ключові Аналітичні Шари
 
 Аналіз сфокусований на глибоких зрізах прибутковості, логістики та динаміки продажів.
 
@@ -73,7 +73,7 @@ Based on the multi-dimensional analysis, the following key insights were derived
 
 ***
 
-## 💡 Висновки та Рекомендації (Оновлено)
+##  Висновки та Рекомендації 
 
 Провівши аналіз даних, були зроблені такі висновки:
 
@@ -84,6 +84,6 @@ Based on the multi-dimensional analysis, the following key insights were derived
 | **Логістика та Прибуток** | Прибуток **залежить від часу** відвантаження товару; в основному середній час доставки приносить найбільше прибутку. | Проте, критично високий час доставки (понад 30 днів) у **Угорщині (36 днів)** та **Росії (34 дні)** вимагає негайного перегляду логістики. |
 | **Фінальний Висновок** | **Europa** є найбільш прибутковим, а **ABC-аналіз** показав, що найбільш прибуткові категорії — **Cosmetics, Office Supplies, Household, Snacks**. | Категорії **Класу C** потребують перегляду: чи варто їх підтримувати, чи можна підвищити маржу? |
 
-## 🔗 Посилання на Візуалізацію
+## 🔗 Посилання на Google Sheets
 
 * [Google Таблиця: Аналіз Продажів та Прибутковості](https://docs.google.com/spreadsheets/d/1NzivFDDzDapf17XBWG4k03jyjwhfu_DO8riJD-R1koY/edit?usp=sharing)
